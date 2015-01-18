@@ -1,0 +1,7 @@
+{
+  "name": "my-tabs#gh-pages",
+  "private": true,
+  "dependencies": {
+    "seed-element": "qkrcjfgus33/my-tabs#master"
+  }
+}
